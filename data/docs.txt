@@ -1,0 +1,29 @@
+Retrieval-Augmented Generation (RAG) is a technique that improves question
+answering systems by combining information retrieval with natural language
+generation. Instead of relying only on a language model’s internal knowledge,
+RAG systems retrieve relevant documents from an external knowledge source and
+use them to generate answers.
+
+A RAG evaluation system is designed to measure how effectively a
+retrieval-augmented model performs. The evaluation focuses on whether the
+retrieved documents are relevant to the query and whether the generated answer
+is grounded in the retrieved content.
+
+One important metric used in RAG evaluation is faithfulness. Faithfulness
+measures how well the generated answer is supported by the retrieved documents.
+A low faithfulness score may indicate hallucination, where the model produces
+information that is not present in the source documents.
+
+Another key metric is stability. Stability measures how consistent the model’s
+answers are when the same query is asked multiple times. Low stability can
+indicate uncertainty or sensitivity to randomness in generation.
+
+RAG evaluation systems are commonly used in applications such as customer
+support bots, internal document search, legal document analysis, and knowledge
+assistants. Evaluating these systems helps identify weaknesses in retrieval,
+generation, or document chunking strategies.
+
+By analyzing evaluation metrics, developers can improve RAG systems by adjusting
+chunk sizes, embedding models, retrieval strategies, or reranking mechanisms.
+This process helps create more reliable, accurate, and trustworthy
+question-answering systems.
