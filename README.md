@@ -1,4 +1,4 @@
- RAG Evaluation and Improvement System
+RAG Evaluation and Improvement System
 
  📌 Overview
 This project implements a **Retrieval-Augmented Generation (RAG)** based
