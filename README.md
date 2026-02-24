@@ -1,6 +1,6 @@
 RAG Evaluation and Improvement System
 
- 📌 Overview
+📌 Overview
 This project implements a **Retrieval-Augmented Generation (RAG)** based
 question answering system and evaluates its performance using quantitative
 metrics. The system focuses on identifying weaknesses in RAG pipelines such as
