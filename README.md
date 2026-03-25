@@ -46,20 +46,6 @@ Low stability indicates unreliable generation.
 - Streamlit  
 - ngrok (for dashboard exposure)  
 
- 📁 Project Structure
-
-RAG-Evaluation-System/
-│
-├── data/
-│   └── docs.txt
-│
-├── reports/
-│   └── failures.jsonl
-│
-├── main.py
-├── app.py
-├── requirements.txt
-└── README.md
 
  ▶️ How to Run
  1️⃣ Install Dependencies
