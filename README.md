@@ -26,7 +26,16 @@ This project addresses the problem by **measuring and visualizing RAG quality**.
 5. Reranking retrieved documents  
 6. Answer generation  
 7. Evaluation using faithfulness and stability metrics  
-8. Visualization using Streamlit dashboard  
+8. Visualization using Streamlit dashboard
+
+File Structure
+RAG-Evaluation-System/
+- data
+    - docs.txt
+- app.py
+- main.py
+- requirement.txt
+- README.md
 
  📊 Evaluation Metrics
 
